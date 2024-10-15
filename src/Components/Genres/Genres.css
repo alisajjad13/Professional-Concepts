@@ -1,0 +1,147 @@
+.genres-btn{
+    justify-content: center;
+    /* margin-top: 30px; */
+    padding: 5px 10px;
+    font-size: 10px;
+    color: white;
+    background-color: black;
+    border: 2px solid blue;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 45%;
+    margin-top: 50px;
+}
+
+.genres-heading{
+    font-size: 20px;
+    color: white;
+    margin-left: 40%;
+    margin-top: 20px;
+}
+
+.border{
+    border-top: 2px solid #313131;
+    margin-top: 40px;
+    margin-left: 40px;
+    width: 90vw;
+}
+
+.genres-boxes{
+    margin-top: 40px;
+    display: flex;
+    width: 20px;
+    gap: 30px;
+    margin-left: 130px;
+}
+
+.genres-box1{
+    border: 2px solid #313131;
+    color: white;
+    background-color: hwb(0 10% 88%);
+    width: 70px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    
+}
+
+.genres-box2{
+    border: 2px solid #313131;
+    color: white;
+    background-color: hwb(0 10% 88%);
+    width: 70px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    
+}
+
+.genres-box3{
+    border: 2px solid #313131;
+    color: white;
+    background-color: hwb(0 10% 88%);
+    width: 70px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    
+}
+
+.genres-box4{
+    border: 2px solid #313131;
+    color: white;
+    background-color: hwb(0 10% 88%);
+    width: 70px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    
+}
+
+.genres-box5{
+    border: 2px solid #313131;
+    color: white;
+    background-color: hwb(0 10% 88%);
+    width: 70px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    
+}
+
+.genres-box6{
+    border: 2px solid #313131;
+    color: white;
+    background-color: hwb(0 10% 88%);
+    width: 70px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin: auto;
+    
+}
+
+.genres-box1:hover{
+    background-image: url("./Images/image-6.png");
+    cursor: pointer;
+    position: center center;
+   object-fit: fill;
+
+}
+.genres-box2:hover{
+    background-image: url("./Images/image-6.png");
+    cursor: pointer;
+    position: center center;
+   object-fit: fill;
+
+}
+.genres-box3:hover{
+    background-image: url("./Images/image-6.png");
+    cursor: pointer;
+    position: center center;
+   object-fit: fill;
+
+}
+.genres-box4:hover{
+    background-image: url("./Images/image-6.png");
+    cursor: pointer;
+    position: center center;
+   object-fit: fill;
+
+}
+.genres-box5:hover{
+    background-image: url("./Images/image-6.png");
+    cursor: pointer;
+    position: center center;
+   object-fit: fill;
+
+}
+.genres-box6:hover{
+    background-image: url("./Images/image-6.png");
+    cursor: pointer;
+    position: center center;
+   object-fit: fill;
+
+}
+
+.genres-boxes2{
+    margin-top: 40px;
+    display: flex;
+    width: 20px;
+    gap: 30px;
+    margin-left: 130px;
+}

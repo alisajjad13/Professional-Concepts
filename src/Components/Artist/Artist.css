@@ -1,0 +1,68 @@
+.artistbtn{
+    justify-content: center;
+    /* margin-top: 30px; */
+    padding: 5px 10px;
+    font-size: 10px;
+    color: white;
+    background-color: black;
+    border: 2px solid blue;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 45%;
+}
+
+.topartist{
+    margin-top: 20px;
+    color: white;
+    margin-left: 38%;
+}
+
+/* Artist Album */
+
+.artist-image1{
+    display: flex;
+    width: 450px;
+    height: 350px;
+    object-fit: cover;
+}
+
+.artist-image2{
+    display: flex;
+    width: 450px;
+    height: 350px;
+    object-fit: cover;
+}
+
+.artist-image3{
+    display: flex;
+    width: 450px;
+    height: 350px;
+    object-fit: cover;
+}
+
+.artist-image4{
+    display: flex;
+    width: 450px;
+    height: 350px;
+    object-fit: cover;
+}
+
+.artist-image5{
+    display: flex;
+    width: 450px;
+    height: 350px;
+    object-fit: cover;
+}
+
+.artist-images{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 20px;
+    gap: 20px;
+}
+
+.artist-image1:hover{
+    
+}
+

@@ -1,0 +1,66 @@
+.carousel-container2 {
+    background: linear-gradient(to right, #8a2387, #e94057, #f27121);
+    margin: 50px 50px;
+    padding: 40px;
+    border-radius: 15px;
+    width: 80vw;
+    color: white;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+  }
+  
+  .carousel-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+  }
+  
+  .text-content {
+    max-width: 50%;
+  }
+  
+  .text-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .text-content p {
+    margin-bottom: 1.5rem;
+  }
+  
+  .download-button {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 30px;
+    margin-bottom: 1.5rem;
+    cursor: pointer;
+  }
+  
+  .store-buttons {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .store-buttons img{
+    width: 80px;
+  }
+
+  .store-icon {
+    width: 150px;
+    cursor: pointer;
+  }
+  
+  .image-content {
+    max-width: 27%;
+  }
+  
+  .listening-image {
+    width: 290px;
+    object-fit: cover;
+  }
+  

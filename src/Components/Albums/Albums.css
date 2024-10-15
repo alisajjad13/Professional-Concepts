@@ -1,0 +1,161 @@
+.album{
+    color: white;
+    margin-top: 170px;
+}
+
+
+
+.buttn{
+    margin-top: 30px;
+    padding: 5px 10px;
+    font-size: 12px;
+    color: white;
+    background-color: #020622;
+    border: 2px solid #0056b3;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.album-list h1{
+    font-size: 35px;
+    margin-top: 30px;
+}
+
+.card{
+    display: flex;
+}
+
+/* Card1 */
+
+.card1{
+    margin: 20px;
+    /* position: absolute; */
+    position: relative;
+    background: #212121;
+    border: 2px solid #777777;
+    color: #878787;
+    border-radius: 20px;
+    height: 380px;
+}
+
+.card1 p{
+    font-weight: lighter;
+    color: #777777;
+    margin: 10px;
+}
+
+.card1 h3{
+    margin: 10px;
+    color: white;
+}
+.card1 img:nth-child(1){
+    /* margin: 10px; */
+    height: 300px;
+    width: 270px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+
+/* Card 2 */
+
+.card2{
+    margin: 20px;
+    /* position: absolute; */
+    background: #212121;
+    border: 2px solid #777777;
+    color: #878787;
+    border-radius: 20px;
+    height: 380px;
+}
+
+.card2 p{
+    font-weight: lighter;
+    color: #777777;
+    margin: 10px;
+}
+
+.card2 h3{
+    margin: 10px;
+    color: white;
+}
+.card2 img:nth-child(1){
+    /* margin: 10px; */
+    height: 300px;
+    width: 270px;
+    /* object-fit: cover; */
+    border-radius: 20px;
+}
+
+/* Card 3 */
+
+.card3{
+    margin: 20px;
+    /* position: absolute; */
+    position: relative;
+    background: #212121;
+    border: 2px solid #777777;
+    color: #878787;
+    border-radius: 20px;
+    height: 380px;
+}
+
+.card3 p{
+    font-weight: lighter;
+    color: #777777;
+    margin: 10px;
+}
+
+.card3 h3{
+    margin: 10px;
+    color: white;
+}
+.card3 img:nth-child(1){
+    /* margin: 10px; */
+    height: 300px;
+    width: 270px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+/* Card 4 */
+
+.card4{
+    margin: 20px;
+    /* position: absolute; */
+    position: relative;
+    background: #212121;
+    border: 2px solid #777777;
+    color: #878787;
+    border-radius: 20px;
+    height: 380px;
+}
+
+.card4 p{
+    font-weight: lighter;
+    color: #777777;
+    margin: 10px;
+}
+
+.card4 h3{
+    margin: 10px;
+    color: white;
+}
+.card4 img:nth-child(1){
+    /* margin: 10px; */
+    height: 300px;
+    width: 270px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.svg1, .svg2, .svg3, .svg4{
+    margin-left: 200px;
+    position: relative;
+    /* height: 500px; */
+            /* width: 100%; */
+            /* background-color: lightgray; */
+            overflow: hidden;
+            margin-top: -40px;
+            top: -30px;
+}
